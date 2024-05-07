@@ -1,5 +1,22 @@
 Intro to Jest
+    What is Jest?
+    Open source JS testing library from Facebook
+    Why use Jest
+    Ease os Setup
+    Super fast execution - parallelism and running slow tests first
+    Does snapshots
+    All built in one (matchers, spies, runner and mockingblibrary)
+    When to use Jest?
+    Unit testingAPI testing (with other libraries like supertest, request-promise)
+    UI Testing (with other JS libraries like puppeteer)
+    DB Testing (against MongoDB and DynamoDB)
 Installing Jest
+    node -v
+    npm -v
+    mkdir learnjest
+    cd learnjest
+    npm init -y
+    npm install --save-dev jest
 Writing first jest test
 Common matchers in jest
 Jest matchers explained
