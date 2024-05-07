@@ -21,9 +21,14 @@ Writing first jest test
 Common matchers in jest
     Two most common matchers in Jest are:
     toBe() - Strict equality
-    toEqual() - matches the object
+    toEqual() - matches the object's value
 Jest matchers explained
 Jest matchers expanded
+    String matchers
+    Number matchers
+    Truthiness matchers
+    Array matchers
+    https://jestjs.io/docs/en/expect
 Before and After code (Setup and teardown features)
 Running specific tests
 Asynchronous testing in jest
