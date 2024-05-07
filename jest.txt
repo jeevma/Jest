@@ -19,6 +19,9 @@ Installing Jest
     npm install --save-dev jest
 Writing first jest test
 Common matchers in jest
+    Two most common matchers in Jest are:
+    toBe() - Strict equality
+    toEqual() - matches the object
 Jest matchers explained
 Jest matchers expanded
 Before and After code (Setup and teardown features)
