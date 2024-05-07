@@ -1,0 +1,10 @@
+Intro to Jest
+Installing Jest
+Writing first jest test
+Common matchers in jest
+Jest matchers explained
+Jest matchers expanded
+Before and After code (Setup and teardown features)
+Running specific tests
+Asynchronous testing in jest
+Snapshot testing
